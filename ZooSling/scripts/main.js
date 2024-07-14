@@ -1504,7 +1504,7 @@ window.C3_IsSupported && (window.c3_runtimeInterface = new self.RuntimeInterface
     useWorker: !0,
     workerMainUrl: "https://cdn.jsdelivr.net/gh/rojithpeiris1/assets@main/ZooSling/workermain.js",
     engineScripts: ["https://cdn.jsdelivr.net/gh/rojithpeiris1/assets@main/ZooSling/scripts/c3runtime.js"],
-    scriptFolder: "https://cdn.jsdelivr.net/gh/rojithpeiris1/assets@main/ZooSling/scripts/",
+    scriptFolder: "scripts/",
     workerDependencyScripts: ["https://cdn.jsdelivr.net/gh/rojithpeiris1/assets@main/ZooSling/box2d.wasm.js"],
     exportType: "html5"
 }));
